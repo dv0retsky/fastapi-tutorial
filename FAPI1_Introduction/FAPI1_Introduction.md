@@ -8,7 +8,7 @@
 |СЕМЕСТР|4 семестр, 2025/2026 уч. год|
 
 Ссылка на материал: <br>
-https://github.com/astafiev-rustam/frontend-and-backend-development/tree/practice-1-19
+https://github.com/dv0retsky/fastapi-tutorial/blob/main/FAPI1_Introduction/FAPI1_Introduction.md
 
 ---
 
