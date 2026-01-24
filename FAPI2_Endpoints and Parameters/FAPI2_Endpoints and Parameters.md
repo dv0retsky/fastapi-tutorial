@@ -8,7 +8,7 @@
 |СЕМЕСТР|4 семестр, 2025/2026 уч. год|
 
 Ссылка на материал: <br>
-https://github.com/dv0retsky/fastapi-tutorial/blob/main/FAPI2_Endpoints%20and%20Parameters/\FAPI2_Endpoints%20and%20Parameters.md
+https://github.com/dv0retsky/fastapi-tutorial/blob/main/FAPI2_Endpoints%20and%20Parameters/FAPI2_Endpoints%20and%20Parameters.md
 
 ---
 
