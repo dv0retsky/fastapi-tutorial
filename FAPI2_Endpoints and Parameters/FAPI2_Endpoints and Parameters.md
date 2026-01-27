@@ -60,7 +60,7 @@ https://github.com/dv0retsky/fastapi-tutorial/blob/main/FAPI2_Endpoints%20and%20
 На картинке ниже изображена таблица, которая сравнивает основные **HTTP-методы**, такие как **GET, POST, PUT и PATCH.** Такая таблица нужна, чтобы правильно выбирать методы **HTTP** в зависимости от задачи. 
 
 <div align="center">
-  <img alt="Project Demo" src="FAPI2_Fig1.png" />
+  <img alt="Project Demo" src="./FAPI2_Fig1.png" />
 </div>
 
 ### Коды состояния
