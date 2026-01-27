@@ -13,7 +13,7 @@
 [**Практическое занятие №2: Работа с конечными точками и параметрами**](./FAPI2_Endpoints%20and%20Parameters/FAPI2_Endpoints%20and%20Parameters.md
 )
 ## Глава №2. Обработка запросов и их проверка
-[**Практическое занятие №3: Обработка HTTP-запросов и их проверка**](./FAPI3_Processing%20requests/FAPI3_Processing%20requests.md)
+[**Практическое занятие №3: Обработка HTTP-запросов и их проверка**](./FAPI3_Processing%20requests/FAPI3_Processing%20requests.md).  
 [**Практическое занятие №4: Postman для тестирования API**](./FAPI4_Postman/FAPI4_Postman.md)
 
 ## Глава №3. Аутентификация и авторизация
