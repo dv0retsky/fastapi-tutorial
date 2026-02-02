@@ -8,7 +8,7 @@
 |СЕМЕСТР|4 семестр, 2025/2026 уч. год|
 
 Ссылка на материал: <br>
-https://github.com/dv0retsky/fastapi-tutorial/blob/main/FAPI3_Processing%20requests/FAPI3_Processing%20requests.md
+https://github.com/dv0retsky/fastapi-tutorial/blob/main/FAPI5_Async%20Types%20Cookies/FAPI5_Async%20Types%20Cookies.md
 
 ---
 
