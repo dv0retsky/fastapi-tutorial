@@ -14,7 +14,7 @@
 )
 ## Глава №2. Обработка запросов и их проверка
 [**Практическое занятие №3: Обработка HTTP-запросов и их проверка**](./FAPI3_Processing%20requests/FAPI3_Processing%20requests.md).  
-[**Практическое занятие №4: Postman для тестирования API**](./FAPI4_Postman/FAPI4_Postman.md)
+[**Практическое занятие №4: Postman для тестирования API**](./FAPI4_Postman/FAPI4_Postman.md)  
 [**Практическое занятие №5: Дополнительные типы данных, асинхронность и параметры Cookie**](./FAPI5_Async%20Types%20Cookies/FAPI5_Async%20Types%20Cookies.md)
 
 ## Глава №3. Аутентификация и авторизация
