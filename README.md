@@ -10,8 +10,7 @@
 
 ## Глава №1. Введение в FastAPI
 [**Практическое занятие №1: Введение в FastAPI**](./FAPI1_Introduction/FAPI1_Introduction.md)  
-[**Практическое занятие №2: Работа с конечными точками и параметрами**](./FAPI2_Endpoints%20and%20Parameters/FAPI2_Endpoints%20and%20Parameters.md
-)
+[**Практическое занятие №2: Работа с конечными точками и параметрами**](./FAPI2_Endpoints%20and%20Parameters/FAPI2_Endpoints%20and%20Parameters.md)
 
 ## Глава №2. Обработка запросов и их проверка
 [**Практическое занятие №3: Обработка HTTP-запросов и их проверка**](./FAPI3_Processing%20requests/FAPI3_Processing%20requests.md)  
@@ -19,7 +18,8 @@
 [**Практическое занятие №5: Дополнительные типы данных, асинхронность и параметры Cookie**](./FAPI5_Async%20Types%20Cookies/FAPI5_Async%20Types%20Cookies.md)
 
 ## Глава №3. Аутентификация и авторизация
-[**Практическое занятие №6: Реализация аутентификации**](./FAPI6_Authentication/FAPI6_Authentication.md)
+[**Практическое занятие №6: Реализация аутентификации**](./FAPI6_Authentication/FAPI6_Authentication.md)   
+[**Практическое занятие №7: Управление доступом на основе ролей**](./FAPI7_Roles/FAPI7_Roles.md)
 
 ## Глава №4. Интеграция баз данных
 
