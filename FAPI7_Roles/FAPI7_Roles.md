@@ -8,7 +8,7 @@
 |СЕМЕСТР|4 семестр, 2025/2026 уч. год|
 
 Ссылка на материал: <br>
-https://github.com/dv0retsky/fastapi-tutorial/blob/main/FAPI6_Authentication/FAPI6_Authentication.md
+https://github.com/dv0retsky/fastapi-tutorial/blob/main/FAPI7_Roles/FAPI7_Roles.md
 
 ---
 
