@@ -8,7 +8,7 @@
 |СЕМЕСТР|4 семестр, 2025/2026 уч. год|
 
 Ссылка на материал: <br>
-https://github.com/dv0retsky/fastapi-tutorial/blob/main/FAPI_KR3/FAPI_KR3.md
+https://github.com/dv0retsky/fastapi-tutorial/blob/main/FAPI_KR4/FAPI_KR4.md
 
 ---
 
