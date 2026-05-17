@@ -25,7 +25,7 @@ https://github.com/dv0retsky/fastapi-tutorial/blob/main/FAPI_KR5/FAPI_KR5.md
 
 ---
 
-## 🏀 Общие требования
+## 📒 Общие требования
 
 1. Проект должен запускаться локально через `uvicorn`.
 2. Проект должен запускаться в Docker-контейнере.
