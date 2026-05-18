@@ -16,6 +16,9 @@ https://github.com/dv0retsky/fastapi-tutorial/blob/main/FAPI15_Implementation/FA
 
 ## 🐱 Вспомогательные приложения и маршрутизаторы API
 
+<div align="center">
+  <img alt="Project Demo" src="./mygif/gif15-1.gif" />
+</div>
 
 ### 🍐 Суб-приложения
 
@@ -664,6 +667,10 @@ async def update_item(item_id: int, item: Item):
 <http://127.0.0.1:8000/docs>
 
 <http://127.0.0.1:8000/redoc>
+
+<div align="center">
+  <img alt="Project Demo" src="./mygif/gif15-2.gif" />
+</div>
 
 ---
 
