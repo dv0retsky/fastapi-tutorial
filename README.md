@@ -33,7 +33,8 @@
 ## Глава №6. Расширенные функции и развертывание
 [**Практическое занятие №13: Docker + FastAPI**](./FAPI13_Deployment/FAPI13_Deployment.md)  
 [**Практическое занятие №14: Поддержка WebSocket**](./FAPI14_WebSocket/FAPI14_WebSocket.md)  
-[**Практическое занятие №15: Внедрение зависимостей и расширенная маршрутизация**](./FAPI15_Implementation/FAPI15_Implementation.md)  
+[**Практическое занятие №15: Внедрение зависимостей и расширенная маршрутизация**](./FAPI15_Implementation/FAPI15_Implementation.md)   
+[**Практическое занятие №16: Подведение итогов**](./FAPI16_Conclusion/FAPI16_Conclusion.md)  
 
 ## Контрольные работы
 [**Контрольная работа №1**](./FAPI_KR1/FAPI_KR1.md)   
